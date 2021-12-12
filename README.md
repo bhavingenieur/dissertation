@@ -15,7 +15,7 @@ basic MultiLayer Perceptron Model.
 ## Algorithms Compared:
 KMeans Clustering, DBSCAN, OPTICS, BIRCH
 
-## Perforamnce Measures:
+## Performance Measures:
 Davies-Bouldin score, Calinski-Harabasz Index, Silhouette-coefficient
 
 ## Keywords:
