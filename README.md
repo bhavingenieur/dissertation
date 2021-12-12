@@ -1,7 +1,6 @@
-# dissertation
-Comparing clustering algorithm performance - A dissertation
+# Comparing clustering algorithm performance - A dissertation
 
-# Abstract
+## Abstract
 
 This dissertation is focused on conducting an analytical comparison of unsupervised machine learning
 algorithms applied to the problem of customer segmentation. Customers are classified into various
