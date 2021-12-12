@@ -12,6 +12,12 @@ clusters formed. We have used a rudimentary customer segmentation model such as 
 it to common clustering algorithms and then used the output as the baseline for classification using a
 basic MultiLayer Perceptron Model.
 
+## Algorithms Compared:
+KMeans Clustering, DBSCAN, OPTICS, BIRCH
+
+## Perforamnce Measures:
+Davies-Bouldin score, Calinski-Harabasz Index, Silhouette-coefficient
+
 ## Keywords:
 Data Mining, Machine Learning, Multilayer Perceptron, KMeans Clustering
 
