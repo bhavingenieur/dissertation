@@ -1,4 +1,4 @@
-# Comparing clustering algorithm performance - A dissertation
+# Customer Segmentation using unsupervised Machine Learning - Dissertation
 
 ## Abstract
 
